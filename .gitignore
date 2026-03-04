@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 大文件
+*.pt
+*.pth
+
+# 数据
+*.cache
+
+# 临时文件
+*.tmp
+*.temp
